@@ -1,0 +1,85 @@
+[{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dc5"
+  },
+  "Key": "AAPL",
+  "Description": "Apple Inc. (AAPL)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dc6"
+  },
+  "Key": "AMC",
+  "Description": "AMC Entertainment Holdings, Inc. (AMC)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dc7"
+  },
+  "Key": "ARKK",
+  "Description": "ARK Innovation ETF (ARKK)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dc8"
+  },
+  "Key": "BB",
+  "Description": "BlackBerry Limited (BB)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dc9"
+  },
+  "Key": "BDRY",
+  "Description": "Breakwave Dry Bulk Shipping ETF (BDRY)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dca"
+  },
+  "Key": "BILI",
+  "Description": "Bilibili Inc. (BILI)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dcb"
+  },
+  "Key": "CHWY",
+  "Description": "Chewy, Inc. (CHWY)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dcc"
+  },
+  "Key": "DIA",
+  "Description": "SPDR Dow Jones Industrial Average ETF Trust (DIA)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dcd"
+  },
+  "Key": "FCX",
+  "Description": "Freeport-McMoRan Inc. (FCX)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dce"
+  },
+  "Key": "GME",
+  "Description": "GameStop Corp. (GME)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dcf"
+  },
+  "Key": "IWM",
+  "Description": "iShares Russell 2000 ETF (IWM)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dd0"
+  },
+  "Key": "MSFT",
+  "Description": "Microsoft Corporation (MSFT)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dd1"
+  },
+  "Key": "QQQ",
+  "Description": "Invesco QQQ Trust (QQQ)"
+},{
+  "_id": {
+    "$oid": "61195f4fd18cc36b24d25dd2"
+  },
+  "Key": "SPY",
+  "Description": "SPDR S&P 500 ETF Trust (SPY)"
+}]
