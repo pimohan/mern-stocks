@@ -1,0 +1,15 @@
+.Cards-Container {
+  display: flex;
+  flex-wrap: wrap;
+  height: 22rem;
+  overflow-y: auto;
+}
+
+.Card-Row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Card-Title {
+  font-weight: bold;
+}

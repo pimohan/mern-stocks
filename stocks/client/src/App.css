@@ -1,0 +1,38 @@
+/* @import "../node_modules/primereact/resources/themes/saga-blue/theme.css";
+@import "../node_modules/primereact/resources/primereact.min.css";
+@import "../node_modules/primeicons/primeicons.css"; */
+
+.App {
+  margin: 24px;
+}
+
+body {
+  background-color: aliceblue;
+}
+
+/* total width */
+::-webkit-scrollbar {
+  /* background-color: #fff; */
+  width: 9px;
+}
+
+/* scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: gray;
+  border-radius: 16px;
+  border: 4px;
+}
+
+/* set button(top and bottom of the scrollbar) */
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+.overlaypanel-demo .select-product-button {
+  min-width: 15rem;
+}
+
+.overlaypanel-demo .product-image {
+  width: 50px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
