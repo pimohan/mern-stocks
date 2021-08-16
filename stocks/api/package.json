@@ -1,0 +1,36 @@
+{
+  "name": "brad",
+  "version": "1.0.0",
+  "description": "Devcamper api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csv-parse": "^4.11.1",
+    "dotenv": "^8.2.0",
+    "exceljs": "^4.1.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "log4js": "^6.3.0",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.19",
+    "morgan": "^1.10.0",
+    "node-geocoder": "^3.27.0",
+    "pdf-parse": "^1.1.1",
+    "slugify": "^1.4.0",
+    "xlsx": "^0.16.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
